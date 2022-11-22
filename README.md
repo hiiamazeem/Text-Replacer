@@ -1,2 +1,3 @@
 # Text-Replacer
-A Python Program That Replace Words With your Given Word in Long Text
+A Python Program That Replace Words With your Given Words in Long Text
+![image](image.png)
